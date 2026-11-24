@@ -8,3 +8,7 @@ venv/
 
 # Full dataset (not committed; use data/download.py)
 data/full/
+
+# Raw EMBER download (large; fetched from ember.elastic.co)
+data/raw/
+data/processed/

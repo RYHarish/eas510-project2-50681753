@@ -1,0 +1,8 @@
+,value
+rows,1999.0
+features,2381.0
+malicious_frac,0.5338
+nan_values,0.0
+inf_values,0.0
+constant_columns,89.0
+max_abs_value,6664445952.0
